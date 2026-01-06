@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dpafinancialsolutions.net/?sitemapindex.xml
+Sitemap: https://dpafinancialsolutions.net/?sitemap901.xml
+Sitemap: https://dpafinancialsolutions.net/?sitemap812.xml
+Sitemap: https://dpafinancialsolutions.net/?sitemap109.xml
+Sitemap: https://dpafinancialsolutions.net/?sitemap85.xml
+Sitemap: https://dpafinancialsolutions.net/?sitemap491.xml
+Sitemap: https://dpafinancialsolutions.net/search.php?sitemap377.xml
